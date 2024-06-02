@@ -1,0 +1,217 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc36:version{972dada4-b828-45a4-bb93-7795cf0585da} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						name = "metal001_tint_inner"
+						remaps = 
+						[
+							{
+								from = "outer.vmat"
+								to = "materials/trim/metal_trim_clean_notint.vmat"
+							},
+							{
+								from = "inner.vmat"
+								to = "materials/trim/metal_trim_clean_01.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+					{
+						_class = "MaterialGroup"
+						name = "metal001_tint_outer"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/trim/metal_trim_clean_01.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/trim/metal_trim_clean_notint.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "metal001_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/trim/metal_trim_clean_01.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/trim/metal_trim_clean_01.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "metal002_tint_inner"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/trim/metal_trim_clean_notint.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/ar_baggage/trim/painted_metal_trim_1.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "metal002_tint_outer"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/ar_baggage/trim/painted_metal_trim_1.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/trim/metal_trim_clean_notint.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "metal002_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/ar_baggage/trim/painted_metal_trim_1.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/ar_baggage/trim/painted_metal_trim_1.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "plastic001_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/de_inferno/trim/inferno_plastic_trim_01_weathered.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/de_inferno/trim/inferno_plastic_trim_01_weathered.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "plastic002_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/de_overpass/trim/plastic_painted_trim_blend_1.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/de_inferno/trim/inferno_plastic_trim_01_weathered.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "plastic003_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/de_inferno/trim/inferno_plastic_trim_01_weathered.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/de_overpass/trim/plastic_painted_trim_blend_1.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "plastic004_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/de_overpass/trim/plastic_painted_trim_blend_1.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/de_overpass/trim/plastic_painted_trim_blend_1.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "wood001_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/trim/wood_trim_plywood_02.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/trim/wood_trim_plywood_02.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "wood002_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/de_inferno/trim/inferno_trim_wood02clean_wood02dirty_blend.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/de_inferno/trim/inferno_trim_wood02clean_wood02dirty_blend.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "wood003_tint"
+						remaps = 
+						[
+							{
+								from = "materials/trim/metal_trim_clean_notint.vmat"
+								to = "materials/de_inferno/trim/inferno_trim_wood01_painted_blend_01.vmat"
+							},
+							{
+								from = "materials/trim/metal_trim_clean_01.vmat"
+								to = "materials/de_inferno/trim/inferno_trim_wood01_painted_blend_01.vmat"
+							},
+						]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

@@ -1,0 +1,60 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "csgo_unlitgeneric.vfx"
+
+	//---- Blend Mode ----
+	F_BLEND_MODE 1 // Translucent
+
+	//---- Color ----
+	g_flModelTintAmount "0.000"
+	g_flTexCoordRotation "0.000"
+	g_nScaleTexCoordUByModelScaleAxis "0" // None
+	g_nScaleTexCoordVByModelScaleAxis "0" // None
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordCenter "[0.500 0.500]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+	TextureColor "materials/letters/tutorial.jpg"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Texture Address Mode ----
+	g_nTextureAddressModeU "0" // Wrap
+	g_nTextureAddressModeV "0" // Wrap
+
+	//---- Translucent ----
+	TextureTranslucency "materials/letters/tutorial_mask.jpg"
+
+	SystemAttributes
+	{
+		WorldMappingWidth "64"
+		WorldMappingHeight "64"
+	}
+
+	UnusedVariables
+	{
+		"g_flAlphaTestReference" "0.5"
+		"g_flAntiAliasedEdgeStrength" "1"
+	}
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Texture Address Mode"
+		{
+		}
+		"Translucent"
+		{
+		}
+	}
+}
