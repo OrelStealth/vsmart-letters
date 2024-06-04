@@ -2,7 +2,7 @@
 Letter smartprop models for making words in the form of signs
 
 # !!! How to use !!!
-1. Download zip latest archive of compiled version from [release page](https://github.com/OrelStealth/vsmart-stairs-advanced/releases)
+1. Download zip latest archive of compiled version from [release page](https://github.com/OrelStealth/vsmart-letters/releases)
 2. Unpack to your addon. Ex.: /game/csgo_addons/de_map_name/
 3. Type "letter" in asset browser and find one of three available fonts(letter_monteserrat.vsmart, letter_cinzel.vsmart, letter_outfit.vsmart). Drag and drop into your map.
 
