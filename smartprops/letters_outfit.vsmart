@@ -327,7 +327,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "44.5"
+														m_Expression = "42"
 													}
 												},
 												{
@@ -377,7 +377,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "38"
+														m_Expression = "37"
 													}
 												},
 												{
@@ -427,7 +427,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "44"
+														m_Expression = "41"
 													}
 												},
 												{
@@ -477,7 +477,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "40"
+														m_Expression = "38"
 													}
 												},
 												{
@@ -502,7 +502,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "37.5"
+														m_Expression = "37"
 													}
 												},
 												{
@@ -527,7 +527,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "38"
+														m_Expression = "37"
 													}
 												},
 												{
@@ -609,7 +609,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "42"
+														m_Expression = "43"
 													}
 												},
 												{
@@ -659,7 +659,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "48"
+														m_Expression = "52"
 													}
 												},
 												{
@@ -684,7 +684,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "38"
+														m_Expression = "39"
 													}
 												},
 												{
@@ -709,7 +709,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "38"
+														m_Expression = "39"
 													}
 												},
 												{
@@ -734,7 +734,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "51"
+														m_Expression = "54"
 													}
 												},
 												{
@@ -759,7 +759,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "43"
+														m_Expression = "46"
 													}
 												},
 												{
@@ -784,7 +784,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "13"
+														m_Expression = "12"
 													}
 												},
 												{
@@ -809,7 +809,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "28"
+														m_Expression = "30"
 													}
 												},
 												{
@@ -884,7 +884,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "53"
+														m_Expression = "56"
 													}
 												},
 												{
@@ -984,7 +984,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "56"
+														m_Expression = "54"
 													}
 												},
 												{
@@ -1009,7 +1009,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "45"
+														m_Expression = "43"
 													}
 												},
 												{
@@ -1034,7 +1034,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "39"
+														m_Expression = "37"
 													}
 												},
 												{
@@ -1059,7 +1059,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "41.5"
+														m_Expression = "41"
 													}
 												},
 												{
@@ -1084,7 +1084,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "46"
+														m_Expression = "45"
 													}
 												},
 												{
@@ -1109,7 +1109,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "50"
+														m_Expression = "45"
 													}
 												},
 												{
@@ -1134,7 +1134,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "72"
+														m_Expression = "67"
 													}
 												},
 												{
@@ -1159,7 +1159,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "50"
+														m_Expression = "45"
 													}
 												},
 												{
@@ -1184,7 +1184,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "47"
+														m_Expression = "45"
 													}
 												},
 												{
@@ -1209,7 +1209,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "41"
+														m_Expression = "39"
 													}
 												},
 												{
@@ -1234,7 +1234,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "36.5"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -1259,7 +1259,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "41"
+														m_Expression = "38"
 													}
 												},
 												{
@@ -1284,7 +1284,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "36"
+														m_Expression = "33"
 													}
 												},
 												{
@@ -1309,7 +1309,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "39"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -1334,7 +1334,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "39"
+														m_Expression = "35"
 													}
 												},
 												{
@@ -1359,7 +1359,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "28"
+														m_Expression = "29"
 													}
 												},
 												{
@@ -1384,7 +1384,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "36.5"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -1409,7 +1409,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "35"
+														m_Expression = "34"
 													}
 												},
 												{
@@ -1484,7 +1484,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "36"
+														m_Expression = "35"
 													}
 												},
 												{
@@ -1559,7 +1559,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "37"
+														m_Expression = "34"
 													}
 												},
 												{
@@ -1584,7 +1584,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "38"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -1609,7 +1609,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "41.5"
+														m_Expression = "38"
 													}
 												},
 												{
@@ -1634,7 +1634,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "37"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -1684,7 +1684,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "31"
+														m_Expression = "26"
 													}
 												},
 												{
@@ -1709,7 +1709,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "25"
+														m_Expression = "23"
 													}
 												},
 												{
@@ -1734,7 +1734,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "37.5"
+														m_Expression = "32"
 													}
 												},
 												{
@@ -1759,7 +1759,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "40"
+														m_Expression = "35"
 													}
 												},
 												{
@@ -1784,7 +1784,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "57"
+														m_Expression = "53"
 													}
 												},
 												{
@@ -1809,7 +1809,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "39"
+														m_Expression = "35"
 													}
 												},
 												{
@@ -1834,7 +1834,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "37.5"
+														m_Expression = "35"
 													}
 												},
 												{
@@ -1859,7 +1859,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "30"
+														m_Expression = "28"
 													}
 												},
 												{
@@ -1934,7 +1934,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "46"
+														m_Expression = "45"
 													}
 												},
 												{
@@ -1984,7 +1984,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "36.5"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -2009,7 +2009,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "38"
+														m_Expression = "36"
 													}
 												},
 												{
@@ -2034,7 +2034,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "37.5"
+														m_Expression = "32"
 													}
 												},
 												{
@@ -2109,7 +2109,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "36"
+														m_Expression = "35"
 													}
 												},
 												{
@@ -2134,7 +2134,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "30"
+														m_Expression = "28"
 													}
 												},
 												{
@@ -2159,7 +2159,7 @@
 													_class = "CSmartPropOperation_SetVariableFloat"
 													m_VariableName = "lettersize"
 													m_VariableValue = {
-														m_Expression = "35"
+														m_Expression = "31"
 													}
 												},
 												{
