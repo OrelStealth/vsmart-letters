@@ -1,4 +1,4 @@
-# vsmart-stairs-advanced
+# Letters smartprop for CS2
 Letter smartprop models for making words in the form of signs
 
 # !!! How to use !!!
